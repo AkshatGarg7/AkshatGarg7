@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkshatGarg7
+- 👋 Hi, I’m @akshatgarg7
 - 👀 I’m interested in Data Science, Python, R, Machine Learning
 - 🌱 I’m currently learning Data Science and Java 
 - 💞️ I’m looking to collaborate on ...
